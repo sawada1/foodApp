@@ -234,6 +234,7 @@ export default {
     width: 100%;
     color: #fff;
     height: 100%;
+    text-align: center;
     h2{
       font-size: 30px;
     }

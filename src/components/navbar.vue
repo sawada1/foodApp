@@ -144,10 +144,9 @@
                 position: relative;
                 span{
                     position: absolute;
-                    background-color: #ccc;
-                    top: -20%;
-                    padding: 3px;
-                    border-radius: 10px;
+                    top: -21%;
+              font-size: 20px;             
+                    border-radius: 50%;
                 }
             }
         }
